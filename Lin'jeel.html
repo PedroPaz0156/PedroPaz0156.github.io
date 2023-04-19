@@ -3,13 +3,15 @@
     <head>
         <link rel="icon" href="/imagens/Lin'jeel/sun.png" type="image/x-icon">
         <title> Lin'jeel </title>
+        <link rel="sliderSheet" href="/Instrucoes/CSS/imageSlider.css">
+        <script src="/Instrucoes/JS/Slide.js"></script>
         <style>
             body{
                 color:#ffffff;
                 background-color:#383838;
             }
             div{
-                border-radius: 35px;
+                border-radius: 25px;
                 background-color: #bf4b4b;
                 padding: 20px;
             }
@@ -58,18 +60,25 @@
         </p>
         <p> 
             Algumas personalidades nascidas em Lin'jeel são: 
-            <div class="row"> 
-                <div class-="row">
-                    <img src="/imagens/Lin'jeel/Sol 22.png" width="500" height="500">
-                    <figcaption> Sol Stardust Lovegood </figcaption>
+            <div class="slider"> 
+                <div class="sliderPage" fade>
+                    <div class="numero"> 1 / 2 </div>
+                    <a href="Sol.html"> <img src="/imagens/Lin'jeel/Sol 22.png" width="500" height="500"> </a>
+                    <div class="texto"> Sol Stardust Lovegood </div>
                 </div>
-                <div class="row">
-                    <img src="/imagens/Lin'jeel/Lucy 30.png" width="500" height="500">
-                    <figcaption> Lucy Stardust Lovegood </figcaption>
+                <div class="sliderPage" fade>
+                    <div class="numero"> 2 / 2 </div>
+                    <a href="Lucy.html"> <img src="/imagens/Lin'jeel/Lucy 30.png" width="500" height="500"> </a>
+                    <div class="texto"> Lucy Stardust Lovegood </div>
                 </div>
+                <a class="anterior" onclick="plusSlides(-1)">&#10094</a>
+                <a class="proximo" onclick="plusSlides(1)">&#10095</a>
             </div>
+            <br>
+            <div style="text-align: center;">
+                <span class="dot" onclick="currentSlide(1)"></span>
+                <span class="dot" onclick="currentSlide(2)"></span>
         </p>
     </body>
-
 
 </html>
