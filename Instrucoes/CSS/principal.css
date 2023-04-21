@@ -1,0 +1,28 @@
+body{
+    color: #ffffff;
+    background-color: #383838;
+}
+
+.row{
+    display: flex;
+    padding: 5px;
+}
+
+table{
+    border: solid white 1px;
+    border-spacing: 7px;
+    padding-left: 25px;
+    border-collapse: collapse;
+}
+
+th{
+    border-spacing: 25%;
+}
+
+header{
+    background-color: #292727;
+}
+
+nav{
+
+}
