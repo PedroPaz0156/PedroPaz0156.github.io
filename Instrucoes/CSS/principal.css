@@ -18,9 +18,12 @@ table{
 
 th{
     border-spacing: 25%;
+    margin-right: 25px;
 }
 
 header{
+    height: 150px;
+    width: auto;
     background-color: #292727;
 }
 
