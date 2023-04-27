@@ -1,0 +1,38 @@
+body{
+    color:#ffffff;
+    background-color:#441f1f;
+    font-size: 16;
+}
+.container{
+    border-radius: 25px;
+    background-color: #bf4b4b;
+    padding: 20px;
+}
+.row {
+    display: flex;
+    padding: 5px;
+}
+
+header{
+    height: 150px;
+    width: auto;
+    background-color: #bf4b4b;
+}
+
+nav{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #3b3b6f;
+}
+
+th{
+    padding: 0 35px;
+
+}
+
+.table a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
