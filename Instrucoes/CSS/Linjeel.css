@@ -2,6 +2,8 @@ body{
     color:#ffffff;
     background-color:#5d2121;
     font-size: 16;
+    margin-left: auto;
+    margin-right: auto;
 }
 .container{
     border-radius: 25px;
