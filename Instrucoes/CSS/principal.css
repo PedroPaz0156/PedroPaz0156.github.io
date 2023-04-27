@@ -50,3 +50,12 @@ nav{
     background-color: #1e1f31;
     padding: 20px;
 }
+
+figure{
+    display: inline-block;
+    text-align: center;
+    margin: 15px;
+    background-color: #1e1f31;
+    padding: 15px;
+    border-radius: 15px;
+}
