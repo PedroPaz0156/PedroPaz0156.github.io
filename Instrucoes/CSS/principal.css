@@ -35,5 +35,5 @@ nav{
 .table a {
     display: block;
     text-decoration: none;
-    color: #ffffff;
+    color: inherit;
 }
