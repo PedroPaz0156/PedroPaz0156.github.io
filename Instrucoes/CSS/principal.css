@@ -1,8 +1,7 @@
 body{
     color: #ffffff;
     background-color: #383838;
-    margin-left: auto;
-    margin-right: auto;
+
 }
 
 p {
@@ -31,12 +30,16 @@ header{
     height: 150px;
     width: auto;
     background-color: #292727;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 nav{
     padding-top: 5px;
     padding-bottom: 5px;
     background-color: #3b3b6f;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .table a {
