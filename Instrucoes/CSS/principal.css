@@ -39,3 +39,9 @@ nav{
     text-decoration: none;
     color: inherit;
 }
+
+.padrao {
+    border-radius: 25px;
+    background-color: #1e1f31;
+    padding: 20px;
+}
