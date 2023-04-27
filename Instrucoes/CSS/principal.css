@@ -31,3 +31,8 @@ nav{
     padding-bottom: 5px;
     background-color: #3b3b6f;
 }
+
+.table a {
+    display: block;
+    text-decoration: none;
+}
