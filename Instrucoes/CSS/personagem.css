@@ -1,0 +1,31 @@
+body {
+    display: block;
+    text-decoration: none;
+}
+
+header{
+    height: 150px;
+    width: auto;
+    background-color: #bf4b4b;
+}
+
+nav{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #7d2121;
+}
+
+.personagem {
+    align-items: right;
+    background-color: #8b2d2d;
+    margin-left: 15px;
+}
+
+.personagem img{
+    align-self: auto;
+}
+
+.texto {
+    color: white;
+    background-color: #5d2121;
+}
