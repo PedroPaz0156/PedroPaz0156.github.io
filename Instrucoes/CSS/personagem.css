@@ -1,6 +1,8 @@
 body {
     display: block;
     text-decoration: none;
+    background-color: linear-gradient(#5d2121,#bf4b4b);
+    
 }
 
 header{
