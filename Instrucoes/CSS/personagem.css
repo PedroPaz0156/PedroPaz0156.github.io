@@ -2,7 +2,12 @@ body {
     display: block;
     text-decoration: none;
     background-color: linear-gradient(#5d2121,#bf4b4b);
-    
+
+}
+
+body a{
+    color: #ffffff;
+    text-decoration: none;
 }
 
 header{
@@ -30,4 +35,10 @@ nav{
 .texto {
     color: white;
     background-color: #5d2121;
+}
+
+.table a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
 }
