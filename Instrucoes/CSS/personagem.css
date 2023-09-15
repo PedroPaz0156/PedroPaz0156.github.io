@@ -1,8 +1,8 @@
 body {
     display: block;
     text-decoration: none;
-    background-color: linear-gradient(#5d2121,#bf4b4b);
-
+    background-color: #5d2121;
+    color: #ffffff;
 }
 
 body a{
