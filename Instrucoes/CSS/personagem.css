@@ -23,7 +23,7 @@ nav{
 }
 
 .personagem {
-    align-items: right;
+    align-self: right;
     background-color: #8b2d2d;
     margin-left: 15px;
 }
