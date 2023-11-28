@@ -94,7 +94,7 @@ button{
 
 .popup .popuptext{
   visibility: hidden;
-  width: 160px;
+  width: 200px;
   background-color: #555;
   color: #fff;
   text-align: center;
@@ -102,7 +102,7 @@ button{
   padding: 8px 0;
   position: absolute;
   z-index: 1;
-  bottom: 125%;
+  bottom: 100%;
   left: 50%;
   margin-left: -80px;
 }
