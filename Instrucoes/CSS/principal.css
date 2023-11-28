@@ -78,6 +78,7 @@ figure{
 
 button{
     display: inline-block;
+    border: none;
     text-align: center;
     margin: 15px;
     background-color: #1e1f31;
