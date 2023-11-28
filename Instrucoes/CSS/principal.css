@@ -95,7 +95,7 @@ button{
 .popup .popuptext{
   visibility: hidden;
   width: 200px;
-  background-color: #463f64;
+  background-color: #272a35;
   color: #fff;
   text-align: center;
   border-radius: 6px;
@@ -104,7 +104,7 @@ button{
   z-index: 1;
   bottom: 100%;
   left: 50%;
-  margin-left: -60px;
+  margin-left: -100px;
 }
 
 .popup .popuptext::after {
@@ -115,7 +115,7 @@ button{
     margin-left: -5px;
     border-width: 5px;
     border-style: solid;
-    border-color: #555 transparent transparent transparent;
+    border-color: #272a35 transparent transparent transparent;
   }
 
 .popup .show {
